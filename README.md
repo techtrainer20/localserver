@@ -37,14 +37,4 @@ python dashboard.py
 
 Press `Escape` to exit fullscreen mode and close the application.
 
-## Configuration
 
-Edit the following variables in `dashboard.py` to customize:
-
-| Variable | Description | Default |
-|----------|-------------|---------|
-| `LOCATION_NAME` | Display name for location | Karur, India |
-| `LAT`, `LON` | Coordinates for weather | 10.9601, 78.0766 |
-| `REFRESH_WEATHER_MINS` | Weather refresh interval | 15 minutes |
-| `DAY_START`, `NIGHT_START` | Brightness schedule | 6 AM, 7 PM |
-| `MAX_NEWS_PER_FEED` | Headlines per source | 5 |
